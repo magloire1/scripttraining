@@ -1,7 +1,10 @@
 #!/bin/bash
 
 
-lsbkl
+
+#Description: Script to diplay system info
+
+lsblk
 cpuinfo
 uname -r
 free -m
